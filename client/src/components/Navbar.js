@@ -6,7 +6,7 @@ export default function Navbar() {
     return (
         <nav className="navbar navbar-dark bg-dark">
             <a className="navbar-brand" href="#">
-                <img src={logo} width="250" height="35"
+                <img src={logo} width="250"
                     className="d-inline-block align-top" alt="SpaceX FanClub" />
             </a>
             <ul className="nav justify-content-center">
